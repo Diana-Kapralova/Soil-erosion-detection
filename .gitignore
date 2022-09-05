@@ -1,5 +1,8 @@
-/masks
 /article
+/augmented
+sample_augmented_image.jpg
+unet.h5
 /.ipynb_checkpoints
 /train_data
 T36UXV_20200406T083559_TCI_10m.jp2
+/original/T36UXV_20200406T083559_TCI_10m.jp2
