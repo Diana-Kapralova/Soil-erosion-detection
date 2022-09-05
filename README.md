@@ -26,7 +26,7 @@ In this section we, by using file [Modeling.ipynb](https://github.com/Diana-Kapr
 3. Modeling: here use all files(image mask implementation and Original Image) for modeling. As result: model.
 
 ## Solution Report
-Report created in xlxs table named Improving Researches
+Report created in pdf file named [Improving_for_Model.pdf](https://github.com/Diana-Kapralova/Soil-erosion-detection/blob/main/Improving_for_Model.pdf)
 
 
 
