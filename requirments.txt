@@ -1,0 +1,12 @@
+earthpy==0.9.4
+rasterio==1.2.10
+pandas==1.2.0
+geopandas==0.11.1
+shapely==1.8.4
+numpy==1.23.1
+opencv-python==4.6.0
+matplotlib==3.3.3
+tensorflow==2.9.1
+pillow==9.0.1
+scikit-learn==1.0.2
+albumentations==1.2.1
